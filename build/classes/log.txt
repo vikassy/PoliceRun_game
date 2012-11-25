@@ -1,0 +1,33 @@
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Police-run::Main_frame:Started to create frame
+Police-run::Main_frame:Started to create Panels
+Police-run::Main_frame:Done with creating Panels
+Police-run::Main_frame:Done with creating frame
+Police-run::Main_frame:Entered to main part of the game
+Police Run::First_frame:User pressed Start game!!
+Police Run::Main_frame:Started Time!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police-run::Main_frame:Colidded!!
+Police Run:Main_frame:Game Ends !!
+Police Run:Main_frame:Score =  !!6
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Police-run::Main_frame:Started to create frame
+Police-run::Main_frame:Started to create Panels
+Police-run::Main_frame:Done with creating Panels
+Police-run::Main_frame:Done with creating frame
+Police-run::Main_frame:Entered to main part of the game
+Police Run::First_frame:User pressed Start game!!
+Police Run::Main_frame:Started Time!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
